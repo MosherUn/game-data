@@ -2,12 +2,23 @@
   "UID-ADMIN": {
     "id": "UID-ADMIN",
     "password": "mosher50018863",
-    "name": "管理员",
-    "avatar": "⭐",
-    "bio": "社区管理员",
+    "name": "ç®¡çå",
+    "avatar": "â­",
+    "bio": "ç¤¾åºç®¡çå",
     "frame": "legend",
     "games": {},
     "createdAt": "2024-01-01T00:00:00.000Z",
     "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  "add": {
+    "id": "add",
+    "password": "addd",
+    "name": "玩家add",
+    "avatar": "👤",
+    "bio": "欢迎来到游戏工坊！",
+    "frame": "default",
+    "games": {},
+    "createdAt": "2026-08-12T07:47:56.836Z",
+    "updatedAt": "2026-08-12T07:47:56.837Z"
   }
 }
