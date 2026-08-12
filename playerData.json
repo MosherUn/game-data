@@ -1,0 +1,13 @@
+{
+  "UID-ADMIN": {
+    "id": "UID-ADMIN",
+    "password": "mosher50018863",
+    "name": "管理员",
+    "avatar": "⭐",
+    "bio": "社区管理员",
+    "frame": "legend",
+    "games": {},
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+}
